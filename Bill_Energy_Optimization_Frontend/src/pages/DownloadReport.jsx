@@ -41,6 +41,7 @@ const DownloadReport = ({ data }) => {
     // PAGE 1
     // ══════════════════════════════════════════
 
+
     // ── White background ──
     doc.setFillColor(...white);
     doc.rect(0, 0, pageW, pageH, "F");
